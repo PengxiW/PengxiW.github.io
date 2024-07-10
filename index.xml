@@ -9,7 +9,16 @@
     <managingEditor>user@example.com (Pix Wang)</managingEditor>
     <webMaster>user@example.com (Pix Wang)</webMaster>
     <copyright>© Pix Wang</copyright>
-    <lastBuildDate>Thu, 13 Jun 2024 00:00:00 +0200</lastBuildDate><atom:link href="https://PengxiW.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 09 Jul 2024 00:00:00 +0200</lastBuildDate><atom:link href="https://PengxiW.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>记一次 Game Jam</title>
+      <link>https://PengxiW.github.io/2024_07_gamejam/</link>
+      <pubDate>Tue, 09 Jul 2024 00:00:00 +0200</pubDate><author>user@example.com (Pix Wang)</author>
+      <guid>https://PengxiW.github.io/2024_07_gamejam/</guid><media:content url="https://PengxiW.github.io/2024_07_gamejam/feature_hu54ebfb5f5d6db3586cbc798dccee1006_34034_900x600_fill_q75_h2_catmullrom_smart1_2.webp" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;https://PengxiW.github.io/2024_07_gamejam/feature_hu54ebfb5f5d6db3586cbc798dccee1006_34034_900x600_fill_q75_h2_catmullrom_smart1_2.webp&quot; /&gt;
+          &lt;p&gt;CiGA 2024 Game Jam&lt;/p&gt;
+        </description></item>
     <item>
       <title>都江堰南桥</title>
       <link>https://PengxiW.github.io/2024_06_dujiangyan/</link>
