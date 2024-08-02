@@ -2,48 +2,57 @@
 <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pix Wang&#39;s Gallery on Gallery</title>
-    <link>https://PengxiW.github.io/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content in Pix Wang&#39;s Gallery on Gallery</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>user@example.com (Pix Wang)</managingEditor>
     <webMaster>user@example.com (Pix Wang)</webMaster>
     <copyright>© Pix Wang</copyright>
-    <lastBuildDate>Tue, 09 Jul 2024 00:00:00 +0200</lastBuildDate><atom:link href="https://PengxiW.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 01 Aug 2024 00:00:00 +0200</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>街拍</title>
+      <link>http://localhost:1313/2024_08_randomstreet/</link>
+      <pubDate>Thu, 01 Aug 2024 00:00:00 +0200</pubDate><author>user@example.com (Pix Wang)</author>
+      <guid>http://localhost:1313/2024_08_randomstreet/</guid><media:content url="http://localhost:1313/2024_08_randomstreet/DSC_0915_hu29ce1e4554977f2b376129a8c1fa234f_7797297_900x600_fill_q75_catmullrom_smart1.JPG" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/2024_08_randomstreet/DSC_0915_hu29ce1e4554977f2b376129a8c1fa234f_7797297_900x600_fill_q75_catmullrom_smart1.JPG&quot; /&gt;
+          &lt;p&gt;街拍&lt;/p&gt;
+        </description></item>
     <item>
       <title>记一次 Game Jam</title>
-      <link>https://PengxiW.github.io/2024_07_gamejam/</link>
+      <link>http://localhost:1313/2024_07_gamejam/</link>
       <pubDate>Tue, 09 Jul 2024 00:00:00 +0200</pubDate><author>user@example.com (Pix Wang)</author>
-      <guid>https://PengxiW.github.io/2024_07_gamejam/</guid><media:content url="https://PengxiW.github.io/2024_07_gamejam/feature_hu54ebfb5f5d6db3586cbc798dccee1006_34034_900x600_fill_q75_h2_catmullrom_smart1_2.webp" type="image/jpeg"/>
+      <guid>http://localhost:1313/2024_07_gamejam/</guid><media:content url="http://localhost:1313/2024_07_gamejam/feature_hu54ebfb5f5d6db3586cbc798dccee1006_34034_900x600_fill_q75_h2_catmullrom_smart1_2.webp" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;https://PengxiW.github.io/2024_07_gamejam/feature_hu54ebfb5f5d6db3586cbc798dccee1006_34034_900x600_fill_q75_h2_catmullrom_smart1_2.webp&quot; /&gt;
+          &lt;img src=&quot;http://localhost:1313/2024_07_gamejam/feature_hu54ebfb5f5d6db3586cbc798dccee1006_34034_900x600_fill_q75_h2_catmullrom_smart1_2.webp&quot; /&gt;
           &lt;p&gt;CiGA 2024 Game Jam&lt;/p&gt;
         </description></item>
     <item>
       <title>都江堰南桥</title>
-      <link>https://PengxiW.github.io/2024_06_dujiangyan/</link>
+      <link>http://localhost:1313/2024_06/2024_06_dujiangyan/</link>
       <pubDate>Thu, 13 Jun 2024 00:00:00 +0200</pubDate><author>user@example.com (Pix Wang)</author>
-      <guid>https://PengxiW.github.io/2024_06_dujiangyan/</guid><media:content url="https://PengxiW.github.io/2024_06_dujiangyan/feature_hu17382801fc2d6b2bf7d4c9a6c1d41899_9051051_900x600_fill_q75_catmullrom_smart1.JPG" type="image/jpeg"/>
+      <guid>http://localhost:1313/2024_06/2024_06_dujiangyan/</guid><media:content url="http://localhost:1313/2024_06/2024_06_dujiangyan/feature_hu17382801fc2d6b2bf7d4c9a6c1d41899_9051051_900x600_fill_q75_catmullrom_smart1.JPG" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;https://PengxiW.github.io/2024_06_dujiangyan/feature_hu17382801fc2d6b2bf7d4c9a6c1d41899_9051051_900x600_fill_q75_catmullrom_smart1.JPG&quot; /&gt;
+          &lt;img src=&quot;http://localhost:1313/2024_06/2024_06_dujiangyan/feature_hu17382801fc2d6b2bf7d4c9a6c1d41899_9051051_900x600_fill_q75_catmullrom_smart1.JPG&quot; /&gt;
           &lt;p&gt;问道青城山，拜水都江堰&lt;/p&gt;
         </description></item>
     <item>
       <title>建筑群</title>
-      <link>https://PengxiW.github.io/2024_06_buildings/</link>
+      <link>http://localhost:1313/2024_06/2024_06_buildings/</link>
       <pubDate>Thu, 12 Jan 2023 00:00:00 +0100</pubDate><author>user@example.com (Pix Wang)</author>
-      <guid>https://PengxiW.github.io/2024_06_buildings/</guid><media:content url="https://PengxiW.github.io/2024_06_buildings/feature_hu69c906990a9a225d49ae34c66c6ec6c9_8413027_900x600_fill_q75_catmullrom_smart1.JPG" type="image/jpeg"/>
+      <guid>http://localhost:1313/2024_06/2024_06_buildings/</guid><media:content url="http://localhost:1313/2024_06/2024_06_buildings/feature_hu69c906990a9a225d49ae34c66c6ec6c9_8413027_900x600_fill_q75_catmullrom_smart1.JPG" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;https://PengxiW.github.io/2024_06_buildings/feature_hu69c906990a9a225d49ae34c66c6ec6c9_8413027_900x600_fill_q75_catmullrom_smart1.JPG&quot; /&gt;
+          &lt;img src=&quot;http://localhost:1313/2024_06/2024_06_buildings/feature_hu69c906990a9a225d49ae34c66c6ec6c9_8413027_900x600_fill_q75_catmullrom_smart1.JPG&quot; /&gt;
           &lt;p&gt;取材于2024年6月，生活中的场景&lt;/p&gt;
         </description></item>
     <item>
       <title>繁花</title>
-      <link>https://PengxiW.github.io/2024_06_flora/</link>
+      <link>http://localhost:1313/2024_06/2024_06_flora/</link>
       <pubDate>Thu, 12 Jan 2023 00:00:00 +0100</pubDate><author>user@example.com (Pix Wang)</author>
-      <guid>https://PengxiW.github.io/2024_06_flora/</guid><media:content url="https://PengxiW.github.io/2024_06_flora/DSC_0493%281%29_hu17382801fc2d6b2bf7d4c9a6c1d41899_7479253_900x600_fill_q75_catmullrom_smart1.JPG" type="image/jpeg"/>
+      <guid>http://localhost:1313/2024_06/2024_06_flora/</guid><media:content url="http://localhost:1313/2024_06/2024_06_flora/DSC_0493%281%29_hu17382801fc2d6b2bf7d4c9a6c1d41899_7479253_900x600_fill_q75_catmullrom_smart1.JPG" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;https://PengxiW.github.io/2024_06_flora/DSC_0493(1)_hu17382801fc2d6b2bf7d4c9a6c1d41899_7479253_900x600_fill_q75_catmullrom_smart1.JPG&quot; /&gt;
+          &lt;img src=&quot;http://localhost:1313/2024_06/2024_06_flora/DSC_0493(1)_hu17382801fc2d6b2bf7d4c9a6c1d41899_7479253_900x600_fill_q75_catmullrom_smart1.JPG&quot; /&gt;
           &lt;p&gt;取材于2024年6月，生活中的场景&lt;/p&gt;
         </description></item>
   </channel>
