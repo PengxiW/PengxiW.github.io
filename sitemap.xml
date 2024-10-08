@@ -2,29 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/2024_08_randomstreet/</loc>
+    <loc>https://PengxiW.github.io/2024_10_threegorges/</loc>
+    <lastmod>2024-10-01T00:00:00+02:00</lastmod>
+  </url><url>
+    <loc>https://PengxiW.github.io/2024_08_randomstreet/</loc>
     <lastmod>2024-08-01T00:00:00+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2024_07_gamejam/</loc>
+    <loc>https://PengxiW.github.io/2024_07_gamejam/</loc>
     <lastmod>2024-07-09T00:00:00+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2024_06/</loc>
+    <loc>https://PengxiW.github.io/2024_06/</loc>
     <lastmod>2024-06-13T00:00:00+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2024-08-01T00:00:00+02:00</lastmod>
+    <loc>https://PengxiW.github.io/</loc>
+    <lastmod>2024-10-01T00:00:00+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2024_06/2024_06_dujiangyan/</loc>
+    <loc>https://PengxiW.github.io/2024_06/2024_06_dujiangyan/</loc>
     <lastmod>2024-06-13T00:00:00+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2024_06/2024_06_buildings/</loc>
+    <loc>https://PengxiW.github.io/2024_06/2024_06_buildings/</loc>
     <lastmod>2023-01-12T00:00:00+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2024_06/2024_06_flora/</loc>
+    <loc>https://PengxiW.github.io/2024_06/2024_06_flora/</loc>
     <lastmod>2023-01-12T00:00:00+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://PengxiW.github.io/about/</loc>
   </url><url>
-    <loc>http://localhost:1313/imprint/</loc>
+    <loc>https://PengxiW.github.io/imprint/</loc>
   </url>
 </urlset>
